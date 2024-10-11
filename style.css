@@ -1,0 +1,12 @@
+img{
+    width: 200px;
+    height: 200px;
+    display: block;
+}
+h1{
+    font-size: 4em;
+}
+h1>span{
+   color: blue;
+   font-size:3em; 
+}
